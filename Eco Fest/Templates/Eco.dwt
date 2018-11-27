@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #F00;
+	background-image: url(../Images/Background.jpg);
+	background-repeat: repeat;
+}
+-->
+</style></head>
+
+<body>
+<table width="80%" border="1" align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td colspan="2" bgcolor="#FFFFFF"><h1><img src="../Images/Eco Fest logo.png" width="90" height="66" alt="The Eco fest logo" />Eco Fest</h1></td>
+  </tr>
+  <tr>
+    <td width="16%" valign="top" bgcolor="#FFFFFF"><p><a href="../index.html">Home</a></p>
+    <p><a href="../Acts.html">Acts</a></p>
+    <p><a href="../Tickets.html">Tickets</a></p>
+    <p><a href="../Contact.html">Contact</a></p>
+    <p><a href="../Recycling Initiative.html">Recycling Initiative</a></p></td>
+    <td width="84%" valign="top" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="PageTitle" -->Page Title<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="PageContent" -->
+      <p>Page Content</p>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="2" bgcolor="#FFFFFF">Contact us:<a href="mailto: 144438@student.harrogategrammar.co.uk"> 144438@student.harrogategrammar.co.uk</a></td>
+  </tr>
+</table>
+</body>
+</html>
